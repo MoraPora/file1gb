@@ -1,3 +1,3 @@
 # file1gb
 
-Cleanup repo ... ... ...
+Add PKI SSID-EIG_GUEST
