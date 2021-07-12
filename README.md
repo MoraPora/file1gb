@@ -1,3 +1,3 @@
 # file1gb
 
-Add PKI SSID-EIG_MOBILE
+Add PKI SSID-EIG_RESTAU
