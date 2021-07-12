@@ -1,3 +1,4 @@
 # file1gb
 
 Add PKI SSID-EIG_RESTAU
+Add PKI SSID-EIB_WLAN
