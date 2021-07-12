@@ -2,3 +2,4 @@
 
 Add PKI SSID-EIG_RESTAU
 Add PKI SSID-EIB_WLAN
+Add PKI SurveyPath
