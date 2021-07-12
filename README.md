@@ -1,3 +1,3 @@
 # file1gb
 
-Add PKI SSID-EIG_GUEST
+Add PKI SSID-EIG_HOTSPOT
