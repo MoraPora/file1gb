@@ -1,6 +1,4 @@
 # file1gb
 
-Add PKI SSID-EIG_RESTAU
-Add PKI SSID-EIB_WLAN
-Add PKI SurveyPath
-Add PKI SSID-OTHER
+Add 2nd run - PKI - FL.00,01
+
