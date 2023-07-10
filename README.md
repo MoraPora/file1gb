@@ -2,8 +2,6 @@
 
 Add 2nd run - PKI - FL.00,01
 
-<<<<<<< HEAD
-=======
 ## LOCAL
 git filter-branch --force --index-filter \
   "git rm --cached --ignore-unmatch .env" \
